@@ -1,6 +1,8 @@
 Sudoku
 ======
-There are 500 sudoku puzzles in sudokus.txt files.
+Interesting problem. Solve it with constraint satisfactary problem method (CSP). 
+
+There are 500 sudoku puzzles in sudokus.txt files, all solved.
 
 Two solutions presented:
 
